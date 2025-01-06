@@ -13,5 +13,5 @@ Leetcode/
 ## Progress
 | Problem           | C# Status    | JavaScript Status |
 |-------------------|--------------|-------------------|
-| Two Sum           | ✅ Completed |                   |
+| Two Sum           | ✅ Completed | ✅ Completed     |
 ...
